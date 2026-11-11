@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Tereza 👋
 
-<!--
-**ter-sedl/ter-sedl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about building web applications.
 
-Here are some ideas to get you started:
+**Tech stack:** React · Next.js · TypeScript · JavaScript · CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Portfolio:** [Visit my portfolio](<(https://tereza-sedlackova-portfolio.vercel.app/)>)
+
+---
+
+> “The way to deal with an impossible task was to chop it down into a number of merely very difficult tasks, and break each one of them into a group of horribly hard tasks, and each of them into tricky jobs, and each of them...”
+>
+> — Terry Pratchett, *Tuckers*
