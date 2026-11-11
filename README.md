@@ -4,7 +4,7 @@ Frontend Developer passionate about building web applications.
 
 **Tech stack:** React · Next.js · TypeScript · JavaScript · CSS
 
-🌐 **Portfolio:** [Visit my portfolio](<(https://tereza-sedlackova-portfolio.vercel.app/)>)
+🌐 **Portfolio:** [Visit my portfolio](<https://tereza-sedlackova-portfolio.vercel.app/>)
 
 ---
 
