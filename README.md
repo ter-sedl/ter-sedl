@@ -10,4 +10,4 @@ Frontend Developer passionate about building web applications.
 
 > “The way to deal with an impossible task was to chop it down into a number of merely very difficult tasks, and break each one of them into a group of horribly hard tasks, and each of them into tricky jobs, and each of them...”
 >
-> — Terry Pratchett, *Tuckers*
+> — Terry Pratchett, *Truckers*
